@@ -3,7 +3,7 @@
 PHP RESOURCES
 
 PHP Documentation
-http://php.net/docs.php
+<a href="http://php.net/docs.php">http://php.net/docs.php</a>
 
 PHP Classes Website
 https://www.phpclasses.org/
